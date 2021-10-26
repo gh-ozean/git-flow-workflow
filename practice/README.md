@@ -8,4 +8,4 @@ Releases: v0.1.0
 Development: C
 
 ## Feature
-Feature: 2-1
+Feature: 2-2
