@@ -7,5 +7,8 @@ Releases: v0.1.1
 ## Develop
 Development: D
 
+## Feature
+Feature: 2-2
+
 ## Hotfix
 Hotfix: v0.1.1
