@@ -9,6 +9,7 @@ Development: D
 
 ## Feature
 Feature: 2-2
+Feature: 3-0
 
 ## Release
 Release: v0.2.0-1
