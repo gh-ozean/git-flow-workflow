@@ -11,7 +11,7 @@ Development: D
 Feature: 2-2
 
 ## Release
-Release: v0.2.0-1
+Release: v0.2.0-2
 
 ## Hotfix
 Hotfix: v0.1.1
