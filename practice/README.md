@@ -14,6 +14,7 @@ Feature: 3-2
 
 ## Release
 Release: v0.2.0-3
+Release: v1.0.0-1
 
 ## Hotfix
 Hotfix: v0.1.1
