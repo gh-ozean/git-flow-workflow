@@ -2,7 +2,7 @@
 The file to practice the Git flow workflow.
 
 ## Master
-Releases: v0.2.0
+Releases: v1.0.0
 
 ## Develop
 Development: D
